@@ -1,0 +1,5 @@
+﻿  kadai4_02.c
+F:\kamata\2 SECOND HALF\C-main\10-23\kadai4_02.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\kamata\2 SECOND HALF\C-main\10-23\kadai4_02.c(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\kamata\2 SECOND HALF\C-main\10-23\kadai4_02.c(10,15): warning C4101: 'c': unreferenced local variable
+  10-23.vcxproj -> F:\kamata\2 SECOND HALF\C-main\10-23\x64\Debug\10-23.exe
