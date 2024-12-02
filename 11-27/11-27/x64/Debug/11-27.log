@@ -1,0 +1,3 @@
+﻿  kadai8_03.c
+E:\kamata\2 SECOND HALF\C-main\11-27\kadai8_03.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  11-27.vcxproj -> E:\kamata\2 SECOND HALF\C-main\11-27\x64\Debug\11-27.exe
