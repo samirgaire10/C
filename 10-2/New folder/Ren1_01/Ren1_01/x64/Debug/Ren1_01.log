@@ -1,0 +1,4 @@
+﻿  kadai1_1.c
+G:\kamata\2 SECOND HALF\C\10-2\kadai1_1.c(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+G:\kamata\2 SECOND HALF\C\10-2\kadai1_1.c(8,12): error C2001: newline in constant
+G:\kamata\2 SECOND HALF\C\10-2\kadai1_1.c(9,5): error C2143: syntax error: missing ')' before 'return'
